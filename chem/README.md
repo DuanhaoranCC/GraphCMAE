@@ -1,6 +1,4 @@
-<h1> GraphMAE: Self-Supervised Masked Graph Autoencoders</h1>
-
-**Transfer learning for moleculer property prediction**
+# Transfer learning for moleculer property prediction
 
 Datasets for molecular property prediction can be found [here](https://github.com/snap-stanford/pretrain-gnns#dataset-download) (This [link](http://snap.stanford.edu/gnn-pretrain/data/chem_dataset.zip) for downloading).
 
