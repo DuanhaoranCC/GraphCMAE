@@ -1,6 +1,9 @@
 # Masked Graph Augmentation for Graph Contrastive Learning
 
-Self-supervised graph representation learning is a key technique for graph structured data processing, especially for Web-generated graph that do not have qualified labelling information.
+This repository studies the effectiveness of graph augmentation for graph representation learning.
+We have a load of observations.
+This paper is *Under Review*
+
 ## Dependencies
 
 ```python
