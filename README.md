@@ -2,7 +2,7 @@
 
 This repository studies the effectiveness of graph augmentation for graph representation learning.
 We have a load of observations.
-This paper is *Under Review*
+This paper is *Under Review*.
 
 ## Dependencies
 
