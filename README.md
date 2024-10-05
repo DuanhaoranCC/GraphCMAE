@@ -1,8 +1,6 @@
-# Masked Graph Augmentation for Graph Contrastive Learning
+# GraphCMAE
 
-This repository studies the effectiveness of graph augmentation for graph representation learning.
-We have a load of observations.
-This paper is *Under Review*.
+This repository is for the source code of the paper "GraphCMAE: Contrastive Masked AutoEncoder for Self-Supervised Graph Representation Learning".
 
 ## Dependencies
 
